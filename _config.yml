@@ -24,3 +24,9 @@ rouge-theme: igorpro
 # YOU NORMALLY NEVER CHANGE THE FOLLOWING
 markdown: kramdown
 include: [_data]
+<<<<<<< HEAD
+=======
+
+
+theme: jekyll-theme-cayman
+>>>>>>> 08485b0709d41215d033b49f6694b1afb98a7d67
