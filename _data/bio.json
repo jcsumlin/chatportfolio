@@ -6,7 +6,7 @@
     "email": "chat@chatsumlin.com",
     "phone": "404-323-5044",
     "website": "https://jcsumlin.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Management Information Systems in the Harbart College of Business at the Auburn University. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
       "postalCode": "36832",
@@ -41,13 +41,14 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Raspberry Pi",
+        "Unraid"
       ]
     },
     {
       "name": "data mining",
       "keywords": [
+        ""
       ]
     },
     {
@@ -61,34 +62,33 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML & CSS",
+        "SQL",
+        "Some PHP"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "MacOS/Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Adobe Creative Cloud",
+        ""
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Auburn University",
+      "area": "Management Information Systems (graduating spring 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "2.7",
       "courses": [
       ]
     }
