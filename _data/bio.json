@@ -39,34 +39,45 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Amazon Web Services & Heroku Application Deployment",
+      "keywords": [
+        "AWS EC2",
+        "AWS Lambda",
+        "AWS Lightsail",
+        "AWS Cloudfront",
+        "AWS S3",
+        "AWS RDS",
+        "AWS IAM",
+        "AWS Route53",
+        "AWS Code Deploy and Docker"
+      ]
+    },
+    {
+      "name": "Big Data Analytics",
+      "keywords": [
+        "Big Data 101",
+        "Data Science Methodology"
+      ]
+    },
+    {
+      "name": "Internet of Things",
       "keywords": [
         "Raspberry Pi",
-        "Unraid"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "UnRaid Smarthome Applications",
+        "Amazon Alexa App Development"
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Novice to Experienced",
       "keywords": [
-        "Python",
-        "Javascript",
-        "HTML & CSS",
-        "SQL",
-        "Some PHP"
+        "Python - Experienced",
+        "Javascript - Experienced",
+        "HTML & CSS - Experienced",
+        "SQL - Intermediate",
+        "PHP - Novice"
       ]
     },
     {
@@ -77,7 +88,7 @@
         "Ubuntu",
         "Git/GitHub",
         "Adobe Creative Cloud",
-        ""
+        "AWS"
       ]
     }
   ],
@@ -95,69 +106,60 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Payscape",
+      "position": "Junior Software Developer",
+      "website": "https://www.payscape.com/",
+      "startDate": "2018-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Payscape Registration Development",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Work with AngularJS to troubleshoot bugs and submit fixes to code repository."
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "Genesis Sites",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2011-10-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Web Design company I started to help small businesses build a better online audience."
+      ]
+    },
+    {
+      "company": "FetchMe, LLC",
+      "position": "Delivery Driver & Marketing Consultant",
+      "website": "https://www.fetchmedelivery.com/",
+      "startDate": "2016-03-01",
+      "endDate": "2018-05-01",
+      "summary": "FetchMe, at the time, was a business startup, where I assisted with problemsolving and beta testing of the new business infrastructure.",
+      "highlights": [
+        "I also assisted in planning marketing automation strategies to compete with other local businesses.",
+        "I also provided web design services to improve the overall SEO for their website."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Metro Atlanta Project",
+      "website": "https://www.facebook.com/metroatlantaproject/",
+      "position": "Site Leader",
+      "startDate": "2015-07-01",
+      "endDate": "2015-07-14",
+      "summary": "Work site manager and supervisor",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Led worship services with team and tech crew",
+        "MAP is a 501c3 nonprofit organization which provides home repair assistance to inner-city families."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Eagle Scout Award",
+      "date": "2014",
+      "awarder": "Atlanta Area Council",
+      "summary": "Eagle Scout is the highest achievement or rank attainable in the Scouts BSA program of the Boy Scouts of America. The designation \"Eagle Scout\" was founded over one hundred years ago. Only four percent of Boy Scouts are granted this rank after a lengthy review process. ."
     }
   ],
   "references": [
