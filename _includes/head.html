@@ -34,6 +34,11 @@
   <script type="text/javascript"
           src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   {% endif %}
-
+  <script type="text/javascript">
+      /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+    particlesJS.load('particles-js', '{{ site.baseurl }}/js/particles.js-master/particles.json', function() {
+    console.log('callback - particles.js config loaded');
+    });
+  </script>
 
 </head>
