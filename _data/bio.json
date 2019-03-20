@@ -71,13 +71,13 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "Novice to Experienced",
+      "level": "",
       "keywords": [
-        "Python - Experienced",
-        "Javascript - Experienced",
-        "HTML & CSS - Experienced",
-        "SQL - Intermediate",
-        "PHP - Novice"
+        "Python",
+        "Javascript",
+        "HTML & CSS",
+        "SQL",
+        "PHP"
       ]
     },
     {
